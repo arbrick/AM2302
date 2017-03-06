@@ -7,7 +7,7 @@
 #define SAMPLE_TIMEOUT 300000
 #define DATA_PIN D6
 
-unsigned long lastSample = 0;
+unsigned long lastSample = SAMPLE_TIMEOUT;
 
 AM2302* sensor;
 double temp;
