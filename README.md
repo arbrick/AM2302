@@ -2,7 +2,7 @@
 
 A Particle library for AM2302
 
-To compile the example you can use `particle compile examples/usage` command in [Particle CLI](https://docs.particle.io/guide/tools-and-features/cli#update-your-device-remotely) or use our [Desktop IDE](https://docs.particle.io/guide/tools-and-features/dev/#compiling-code).
+To compile the example you can use `particle compile examples/usage` command in [Particle CLI](https://docs.particle.io/guide/tools-and-features/cli#update-your-device-remotely) or use the [Desktop IDE](https://docs.particle.io/guide/tools-and-features/dev/#compiling-code).
 
 ## Usage
 
