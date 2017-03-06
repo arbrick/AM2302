@@ -8,7 +8,7 @@ To compile the example you can use `particle compile examples/usage` command in 
 
 Connect the AM2302 hardware (see the [Documentation](#Documentation) section for more info), add the AM2302 library to your project and reference this example:
 
-NOTE: This is an example and will not compile. See the "[usage](./examples/usage)" folder for a more in depth example.
+NOTE: This is an example and will not compile. See the [examples](examples) folder for a more in depth example.
 
 ```cpp
 AM2302 sensor(DATA_PIN);
@@ -26,8 +26,6 @@ void loop() {
   }
 }
 ```
-
-See the [examples](examples) folder for more details.
 
 ## Documentation
 
